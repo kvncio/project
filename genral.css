@@ -1,0 +1,79 @@
+body
+{
+    background-color: bisque;
+}
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:green;
+}
+li
+{
+    float: left;
+}
+li a 
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover
+{
+    background-color:bisque;
+}
+.Who
+{
+    background-color: yellowgreen;
+}
+.King
+{
+   
+   color:gray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Flag
+{
+    float: right;
+}
+.What
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bordered
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Aziz
+{
+    width: 200px;
+}
+.Saud
+{
+float: right;
+}
+.Second
+{
+    text-align: right;
+}
+.Forth
+{
+    text-align: right;
+}
+.For
+{
+    float: right;
+}
+.Sixth
+{
+    float: right;
+}
+.Sixt
+{
+    text-align: right;
+}
